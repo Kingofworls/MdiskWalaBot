@@ -1,6 +1,6 @@
 {
     "name": "This is Inline Search Bot by @RoyalKrrishna",
-    "description": "This is Inline Channel Messages Search Bot by @RoyalKrrishna",
+    "description": "This is Inline Channel Messages Search Bot by @kingofworls",
     "keywords": [
         "telegram",
         "channel",
@@ -10,7 +10,7 @@
     ],
     "repository": "https://github.com/Kingofworls/MdiskWalaBot",
     "website": "https://telegram.dog/kingofworls",
-    "success_url": "https://t.me/mdisksearchroBot",
+    "success_url": "https://t.me/backipchabot",
     "env": {
         "API_ID": {
             "description": "Get this value from my.telegram.org or @TeleORG_Bot"
